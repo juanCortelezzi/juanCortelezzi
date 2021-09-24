@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Juan Cortelezzi
 I'm an Argentinian software developer.
 
-I love learning and programming, and my aim is to one day beacome a senior software engineer.
+I love learning and programming. My aim is to one day beacome a senior software engineer.
 
-Here you will find the very start to my programming journey till the last project I'm developing.
+Here you will find the very start of my programming journey till the latest project I'm developing.
 
 Last projects:
 * [Websocket-chat-server](https://github.com/juanCortelezzi/Websocket-chat-server) - encrypted websocket chat server
