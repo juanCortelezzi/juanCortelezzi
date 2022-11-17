@@ -6,7 +6,8 @@ I love learning and programming. My aim is to one day beacome a senior software 
 Here you will find the very beginning of my programming journey till my latest work in progress.
 
 Some nice projects:
-* [Juans-Blog](https://github.com/juanCortelezzi/Juans-Blog) - my web portfolio
+* [Juans-Blog](https://github.com/juanCortelezzi/Juans-blog-astro) - my web portfolio
 * [Websocket-chat-server](https://github.com/juanCortelezzi/Websocket-chat-server) - encrypted websocket chat server
-* [Royallist](https://github.com/juanCortelezzi/Royallist) - a simple and glorified "ls" written in go
+* [AdventOfCode2021](https://github.com/juanCortelezzi/AdventOfCode) - my 2021 AOC solutions
+* [Royallist]([https://github.com/juanCortelezzi/Royallist](https://github.com/juanCortelezzi/Royallist-Rust)) - a simple and glorified "ls" written in Rust
 * [Dotfiles](https://github.com/juanCortelezzi/Dotfiles) - my linux and related dotfiles
