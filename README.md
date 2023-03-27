@@ -8,6 +8,6 @@ Here you will find the very beginning of my programming journey till my latest w
 Some nice projects:
 * [Juans-Blog](https://github.com/juanCortelezzi/Juans-blog-astro) - my web portfolio
 * [Websocket-chat-server](https://github.com/juanCortelezzi/Websocket-chat-server) - encrypted websocket chat server
-* [AdventOfCode](https://github.com/juanCortelezzi/AdventOfCode) - my 2021 AOC solutions
+* [AdventOfCode](https://github.com/juanCortelezzi/AdventOfCode) - my Advent of Code solutions
 * [Royallist](https://github.com/juanCortelezzi/Royallist-Rust) - a simple and glorified "ls" written in Rust
 * [Dotfiles](https://github.com/juanCortelezzi/Dotfiles) - my linux and related dotfiles
